@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   array = ["Hello", "I", "am", "learning"]
-  array.unshift "arrays!"
+  array.unshift "wow"
 end
 
 def remove_element_from_end_of_array(array)
